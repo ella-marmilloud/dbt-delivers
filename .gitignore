@@ -1,0 +1,4 @@
+#ce fichier permet de dire à GitHub de ne pas prendre en compte certains fichiers.
+#pour faire cela on précise l'extension des fichiers 
+
+*.jpg
